@@ -86,8 +86,6 @@ I might add the other pages on the Netflix website. ^-^
 Contributions are highly welcome. Feel free to fork, clone, make pull requests, report issues etc.
 
 ## Acknowledgments
-- Many thanks to [@David J. Malan](https://github.com/dmalan) for his awesome courses 
-- Many thanks to [@Brian Yu](https://github.com/brianyu28) for his awesome courses
 - Thanks to Harvard CS50 Courses.
 - And To anyone reading this... _You're awesome!_
 
@@ -96,6 +94,6 @@ _<p align="center">"The way to succeed is to double your failure rate."</p>_
 
 ## Contact Me
 
-You can reach me at https://vidushigandhi.vercel.app/
+You can reach me at https://srhacker.com/
 Feel free to contact me for any Query related to this repository.
 
